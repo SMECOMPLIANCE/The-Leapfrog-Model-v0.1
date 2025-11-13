@@ -82,8 +82,7 @@ The **Leapfrog Model** is an open invitation to build that world, together.
 
 ---
 
-### <img width="512" height="512" alt="_6324935" src="https://github.com/user-attachments/assets/def417e9-948e-408b-988a-3d2f5403bb2d" />
- Contact  
+### Contact  
 
 **Email:** [your.email@example.com]  
 🌐 **Project page:** [link-placeholder]  
