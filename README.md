@@ -6,7 +6,7 @@
 ### Overview  
 
 **The Leapfrog Model** is a simple, scalable, and globally adaptable approach to **AI governance for small and medium-sized enterprises (SMEs)**.  
-It reimagines compliance not as a legal burden, but as a gradual journey that any organization can begin — no matter its size, budget, or geography.  
+It reimagines compliance not as a legal burden, but as a gradual journey that any organization can begin, no matter its size, budget, or geography.  
 
 The model’s strength lies in its simplicity: three clear tiers that help businesses build **trust, accountability, and fairness** into their AI systems step by step.
 
@@ -26,10 +26,10 @@ Each tier represents a **stage of maturity**. Start small, build confidence, and
 
 ### 🌐 Why It Matters  
 
-Most global AI governance frameworks are designed for large corporations, leaving 99% of businesses — SMEs — without accessible guidance.  
+Most global AI governance frameworks are designed for large corporations, leaving 99% of businesses, SMEs, without accessible guidance.  
 The Leapfrog Model bridges this gap by offering a **bottom-up, open-source standard** that anyone can adopt.  
 
-It is lightweight, adaptable, and globally relevant — enabling responsible AI innovation from the ground up.  
+It is lightweight, adaptable, and globally relevant, enabling responsible AI innovation from the ground up.  
 
 ---
 
@@ -38,7 +38,7 @@ It is lightweight, adaptable, and globally relevant — enabling responsible AI 
 | **File / Folder** | **Description** |
 |--------------------|-----------------|
 | `WhitePaper_TheLeapfrogModel.pdf` | Full white paper detailing the concept, framework, and application examples. |
-| `templates/` | Editable Tier 2 (Document) tools — including RoPA, DPIA, and Fairness Checklist templates. |
+| `templates/` | Editable Tier 2 (Document) tools, including RoPA, DPIA, and Fairness Checklist templates. |
 | `visuals/` | Diagrams and infographics illustrating the Leapfrog tiers. |
 | `LICENSE` | Open-source license (CC BY 4.0). |
 | `README.md` | This overview file. |
@@ -48,10 +48,10 @@ It is lightweight, adaptable, and globally relevant — enabling responsible AI 
 ### How to Get Started  
 
 1. **Read the White Paper** for the complete background and rationale.  
-2. **Start with Tier 1** — add clear AI disclosures where applicable.  
+2. **Start with Tier 1**, add clear AI disclosures where applicable.  
 3. **Use the Templates** under Tier 2 to begin documenting your AI processes.  
-4. **Advance to Tier 3** — introduce periodic human review or fairness checks.  
-5. **Adapt and Share Back** — localize the model for your region and contribute improvements.  
+4. **Advance to Tier 3**, introduce periodic human review or fairness checks.  
+5. **Adapt and Share Back**, localize the model for your region and contribute improvements.  
 
 ---
 
@@ -70,13 +70,13 @@ Open an issue, submit a pull request, or start a discussion in the repository.
 ### License  
 
 Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
-You are free to **use, adapt, and share** the materials — with attribution.  
+You are free to **use, adapt, and share** the materials, with attribution.  
 
 ---
 
 ### Vision  
 
-> *A world where every business — not just the biggest ones — can use AI responsibly, transparently, and fairly.*  
+> *A world where every business, (not just the biggest ones) can use AI responsibly, transparently, and fairly.*  
 
 The **Leapfrog Model** is an open invitation to build that world, together.
 
