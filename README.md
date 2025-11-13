@@ -1,9 +1,9 @@
-# 🌍 The Leapfrog Model  
+# The Leapfrog Model  
 ### *A Bottom-Up Framework for Practical AI Governance in SMEs*  
 
 ---
 
-### 🧭 Overview  
+### Overview  
 
 **The Leapfrog Model** is a simple, scalable, and globally adaptable approach to **AI governance for small and medium-sized enterprises (SMEs)**.  
 It reimagines compliance not as a legal burden, but as a gradual journey that any organization can begin — no matter its size, budget, or geography.  
@@ -12,7 +12,7 @@ The model’s strength lies in its simplicity: three clear tiers that help busin
 
 ---
 
-### ⚙️ The Three Tiers  
+### The Three Tiers  
 
 | **Tier** | **Principle** | **Action** |
 |-----------|----------------|-------------|
@@ -33,7 +33,7 @@ It is lightweight, adaptable, and globally relevant — enabling responsible AI 
 
 ---
 
-### 📂 What’s Inside  
+### What’s Inside  
 
 | **File / Folder** | **Description** |
 |--------------------|-----------------|
@@ -45,7 +45,7 @@ It is lightweight, adaptable, and globally relevant — enabling responsible AI 
 
 ---
 
-### 🚀 How to Get Started  
+### How to Get Started  
 
 1. **Read the White Paper** for the complete background and rationale.  
 2. **Start with Tier 1** — add clear AI disclosures where applicable.  
@@ -55,7 +55,7 @@ It is lightweight, adaptable, and globally relevant — enabling responsible AI 
 
 ---
 
-### 🤝 Contribute  
+### Contribute  
 
 The Leapfrog Model is an **open, evolving framework**.  
 You can contribute by:  
@@ -67,14 +67,14 @@ Open an issue, submit a pull request, or start a discussion in the repository.
 
 ---
 
-### 📜 License  
+### License  
 
 Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.  
 You are free to **use, adapt, and share** the materials — with attribution.  
 
 ---
 
-### 💡 Vision  
+### Vision  
 
 > *A world where every business — not just the biggest ones — can use AI responsibly, transparently, and fairly.*  
 
@@ -82,9 +82,10 @@ The **Leapfrog Model** is an open invitation to build that world, together.
 
 ---
 
-### 📬 Contact  
+### <img width="512" height="512" alt="_6324935" src="https://github.com/user-attachments/assets/def417e9-948e-408b-988a-3d2f5403bb2d" />
+ Contact  
 
-📧 **Email:** [your.email@example.com]  
+**Email:** [your.email@example.com]  
 🌐 **Project page:** [link-placeholder]  
 
 ---
