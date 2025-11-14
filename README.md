@@ -24,7 +24,7 @@ Each tier represents a **stage of maturity**. Start small, build confidence, and
 
 ---
 
-### 🌐 Why It Matters  
+### Why It Matters  
 
 Most global AI governance frameworks are designed for large corporations, leaving 99% of businesses, SMEs, without accessible guidance.  
 The Leapfrog Model bridges this gap by offering a **bottom-up, open-source standard** that anyone can adopt.  
@@ -39,7 +39,6 @@ It is lightweight, adaptable, and globally relevant, enabling responsible AI inn
 |--------------------|-----------------|
 | `WhitePaper_TheLeapfrogModel.pdf` | Full white paper detailing the concept, framework, and application examples. |
 | `templates/` | Editable Tier 2 (Document) tools, including RoPA, DPIA, and Fairness Checklist templates. |
-| `visuals/` | Diagrams and infographics illustrating the Leapfrog tiers. |
 | `LICENSE` | Open-source license (CC BY 4.0). |
 | `README.md` | This overview file. |
 
