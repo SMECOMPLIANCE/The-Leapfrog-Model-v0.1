@@ -17,7 +17,7 @@ The model’s strength lies in its simplicity: three clear tiers that help busin
 | **Tier** | **Principle** | **Action** |
 |-----------|----------------|-------------|
 | **1. Disclose** | Transparency | Clearly inform users when they interact with AI systems. |
-| **2. Document** | Accountability | Keep simple internal records of what the AI does, what data it uses, and its potential risks. |
+| **2.Document** | Accountability | Keep simple internal records of what the AI does, what data it uses, and its potential risks. |
 | **3. Validate** | Fairness | Periodically check for accuracy, bias, and ensure human oversight where needed. |
 
 Each tier represents a **stage of maturity**. Start small, build confidence, and evolve responsibly.
