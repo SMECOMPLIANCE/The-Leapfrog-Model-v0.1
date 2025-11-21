@@ -86,8 +86,8 @@ The **Leapfrog Model** is an open invitation to build that world, together.
 
 ### Contact  
 
-**Email:** [your.email@example.com]  
-🌐 **Project page:** [link-placeholder]  
+**Email:** sme.compliance.ke@zohomail.com  
+🌐 **Project page:** [[Here]](https://github.com/SMECOMPLIANCE/The-Leapfrog-Model-v0.1/tree/main)  
 
 ---
 
